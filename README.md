@@ -1,1 +1,1 @@
-# Kahn-Academy-Algorithms-in-C
+# Khan-Academy-Algorithms-in-C
